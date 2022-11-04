@@ -12,6 +12,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
   text-decoration: none;
 }
 
